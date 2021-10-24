@@ -1,0 +1,3 @@
+SET  @num := 0;
+UPDATE alarms SET id = @num := (@num+1);
+ALTER TABLE alarms AUTO_INCREMENT =1;

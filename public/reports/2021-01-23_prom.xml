@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='WINDOWS-1251'?>
+<ZVIT>
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>24.01.2021</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>00190905</EDRPOU>
+    </FIELDS>
+    <CARD CARDWITHKVT="1">
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.01.2021</PERDATE>
+        <DOCID>2B0T318X-3N6X-OQHN-ST6Q-NWK9</DOCID>
+        <NOTATION/>
+        <SIGNERNAME>Іванов Іван Иванович</SIGNERNAME>
+        <CHARCODE>J0210401</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" NAME="HZ" TAB="0">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="EDRPOU" TAB="0">
+          <VALUE>00190905</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="NAME" TAB="0">
+          <VALUE>ПРИВАТНЕ АКЦIОНЕРНЕ ТОВАРИСТВО "ІНГУЛЕЦЬКИЙ ГІРНИЧО-ЗБАГАЧУВАЛЬНИЙ КОМБІНАТ"</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="REL1" TAB="0">
+          <VALUE>123456</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N1" TAB="0">
+          <VALUE>23.01.2021</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N2" TAB="0">
+          <VALUE>00:00:01</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N3" TAB="0">
+          <VALUE>23.01.2021</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N4" TAB="0">
+          <VALUE>23:59:59</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RUKINN" TAB="0">
+          <VALUE>123456789</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RUK" TAB="0">
+          <VALUE>Іванов Іван Иванович</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="POS" TAB="0">
+          <VALUE>посада</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="1">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A1" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A3" TAB="1">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A5" TAB="1">
+          <VALUE>10</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A6" TAB="1">
+          <VALUE>26939</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A7" TAB="1">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A8" TAB="1">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="2">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A1" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A2" TAB="2">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A3" TAB="2">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A4" TAB="2">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A5" TAB="2">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A6" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A1" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A2" TAB="3">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A3" TAB="3">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A4" TAB="3">
+          <VALUE>00437</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A5" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A7" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A1" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A2" TAB="4">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A3" TAB="4">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A4" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A5" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A1" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A2" TAB="5">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A3" TAB="5">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A4" TAB="5">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A5" TAB="5">
+          <VALUE>0.83</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A6" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A7" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A8" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A9" TAB="5">
+          <VALUE>0.0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A10" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>

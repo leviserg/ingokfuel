@@ -1,0 +1,1551 @@
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="mnemo"
+   class="mt-2 bg-light"
+   height="800"
+   width="100%"
+   viewBox="0 0 457 800"
+   sodipodi:docname="localrlw.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 155,256 V 371.60905 H 325 V 256"
+     id="path2411-2" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview1104"
+     showgrid="true"
+     inkscape:zoom="2.0792405"
+     inkscape:cx="171.06869"
+     inkscape:cy="270.5409"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="mnemo"
+     inkscape:document-rotation="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1106"
+       color="#c5c5c5"
+       opacity="0.1254902"
+       empcolor="#9f9f9f"
+       empopacity="0.25098039" />
+  </sodipodi:namedview>
+  <style
+     id="style835">.plc {  }
+.control {  }
+.meter {  }
+.pump {  }
+.svgbtn {  }
+.vlevel {  }
+</style>
+  <metadata
+     id="metadata887">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs885">
+    <rect
+       x="643.66382"
+       y="40"
+       width="56.336174"
+       height="40"
+       id="rect3209" />
+    <rect
+       x="703.85767"
+       y="256.5079"
+       width="119.70369"
+       height="33.4921"
+       id="rect3202" />
+    <rect
+       x="640"
+       y="80"
+       width="93.954605"
+       height="20"
+       id="rect3139" />
+    <rect
+       x="670"
+       y="96.446968"
+       width="40"
+       height="13.553029"
+       id="rect3046" />
+    <rect
+       x="640"
+       y="200"
+       width="120"
+       height="20"
+       id="rect3009" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999" />
+    <rect
+       x="260"
+       y="400"
+       width="380"
+       height="120"
+       id="rect2993" />
+    <rect
+       x="311.9136"
+       y="-112.17946"
+       width="128.0864"
+       height="41.041264"
+       id="rect2987" />
+    <linearGradient
+       id="linearGradient1887">
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:1"
+         offset="0"
+         id="stop1883" />
+      <stop
+         style="stop-color:#f4f4f4;stop-opacity:1"
+         offset="0.5"
+         id="stop1889" />
+      <stop
+         style="stop-color:#c3c3c3;stop-opacity:1"
+         offset="1"
+         id="stop1885" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1462-7">
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:1;"
+         offset="0"
+         id="stop1458" />
+      <stop
+         style="stop-color:#b7b7b7;stop-opacity:0;"
+         offset="1"
+         id="stop1460" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient1462-7"
+       id="linearGradient1464"
+       x1="74.5"
+       y1="231.5"
+       x2="159.5"
+       y2="231.5"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1300"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94117647,0,0,1.1111111,-48.063598,-202.66667)"
+       x1="150"
+       y1="330"
+       x2="240"
+       y2="330" />
+    <linearGradient
+       xlink:href="#linearGradient1262"
+       id="linearGradient1264"
+       x1="601.36127"
+       y1="121.04696"
+       x2="598.77136"
+       y2="114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0320456,0,0,0.99987667,-19.448283,0)" />
+    <linearGradient
+       id="linearGradient1262">
+      <stop
+         style="stop-color:#67bcde;stop-opacity:1;"
+         offset="0"
+         id="stop1258" />
+      <stop
+         style="stop-color:#67bcde;stop-opacity:0;"
+         offset="1"
+         id="stop1260" />
+    </linearGradient>
+    <rect
+       x="640"
+       y="200"
+       width="120"
+       height="20"
+       id="rect3009-8" />
+    <rect
+       x="640"
+       y="200"
+       width="120"
+       height="20"
+       id="rect3022" />
+    <rect
+       x="670"
+       y="96.446968"
+       width="40"
+       height="13.553029"
+       id="rect3046-0" />
+    <rect
+       x="670"
+       y="96.446968"
+       width="40"
+       height="13.553029"
+       id="rect3101" />
+    <rect
+       x="640"
+       y="80"
+       width="93.954605"
+       height="20"
+       id="rect3139-6" />
+    <rect
+       x="640"
+       y="80"
+       width="93.954605"
+       height="20"
+       id="rect3172" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient3486"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient3488"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient3490"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1510"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94117647,0,0,1.1111111,-48.063598,-202.66667)"
+       x1="150"
+       y1="330"
+       x2="240"
+       y2="330" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1713"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94117647,0,0,1.1111111,-48.063598,-202.66667)"
+       x1="150"
+       y1="330"
+       x2="240"
+       y2="330" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1844"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1846"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient1848"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2030"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2032"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2034"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2036"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2038"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       xlink:href="#linearGradient1887"
+       id="linearGradient2040"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999-6" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2386" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999-6-5" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect3033" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3205"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3207"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3209"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999-6-5-1" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect3412" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3717"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="480"
+       y1="540"
+       x2="480"
+       y2="600" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3719"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="670"
+       y1="540"
+       x2="670"
+       y2="600" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1887"
+       id="linearGradient3721"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-390,-62.62817)"
+       x1="590"
+       y1="600"
+       x2="590"
+       y2="530" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999-3-4" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect5819" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect2999-3-4-0" />
+    <rect
+       x="220"
+       y="429.56522"
+       width="440"
+       height="50.434769"
+       id="rect5822" />
+  </defs>
+  <!-- <title>my vector image</title> -->
+  <!-- <rect id="backgroundrect" height="100%" width="100%" x="0" y="0" fill="#0094C6" stroke="none"/> -->
+  <!-- ********** height="800 / 860" width="1820" ********** /> -->
+  <text
+     xml:space="preserve"
+     id="text2985"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2987);fill:#000000;fill-opacity:1;stroke:none;" />
+  <path
+     style="fill:none;stroke:#9f9f9f;stroke-width:0.747496px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 452,400 H 5"
+     id="path2963-6-2" />
+  <text
+     xml:space="preserve"
+     id="textGSMOtv"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2999-6-5);fill:#000000;fill-opacity:1;stroke:none;"
+     x="48.466885"
+     y="0"
+     transform="translate(-201.4082,-414.62072)"><tspan
+       x="266.27344"
+       y="458.38859"><tspan>ГСМ ЖДЦ &quot;Отвальная&quot;</tspan></tspan></text>
+  <g
+     id="gTankH92-9"
+     style="display:inline"
+     transform="translate(-35.8346,-270.39936)">
+    <ellipse
+       style="display:inline;fill:url(#linearGradient3205);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.781993;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path891-7-6-5-7-7"
+       cx="89.518372"
+       cy="507.69812"
+       rx="20.009634"
+       ry="47.601448" />
+    <ellipse
+       style="display:inline;fill:url(#linearGradient3207);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.781993;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path891-7-63-9-3"
+       cx="279.87939"
+       cy="507.21649"
+       rx="20.009634"
+       ry="47.601448" />
+    <rect
+       style="fill:url(#linearGradient3209);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.712926;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect889-5-1-3"
+       width="190"
+       height="100"
+       x="90"
+       y="457.37183"
+       ry="0" />
+  </g>
+  <g
+     id="gRGS25O"
+     transform="translate(32.2305,33.417808)"
+     class="vlevel">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="167.14185"
+       y="210.94884"
+       id="stitleRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan3217"
+         x="167.14185"
+         y="210.94884">25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="144.57776"
+       y="171.27156"
+       id="ftypeRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1778"
+         x="144.57776"
+         y="171.27156">Керосин</tspan></text>
+    <rect
+       style="display:inline;fill:#e9c51a;fill-opacity:1;stroke:#6d6d6d;stroke-width:0.398912;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="pazsRGS25O"
+       width="50.001087"
+       height="99.454536"
+       x="39.999458"
+       y="153.81384" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#6d6d6d;stroke-width:0.3992;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="azsRGS25O"
+       width="49.869801"
+       height="99.860405"
+       x="40.065102"
+       y="153.76779" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#989898;stroke-width:0.230307;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="btnR11-5-1"
+       width="69.997055"
+       height="17.365957"
+       x="72.769501"
+       y="189.25932" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="78.048119"
+       y="203.02859"
+       id="volRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1120"
+         x="78.048119"
+         y="203.02859">9999999</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="103.18952"
+       y="186.11737"
+       id="tempRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1283-2-1-0-28-3"
+         x="103.18952"
+         y="186.11737">100.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="91.064003"
+       y="233.23048"
+       id="densRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1281-98-6-3-3-5"
+         x="91.064003"
+         y="233.23048">1999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="133.78728"
+       y="203.11784"
+       id="euvolRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1305-1-9-3-4-2"
+         x="133.78728"
+         y="203.11784">л</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="133.79529"
+       y="186.39064"
+       id="eutempRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1327-3-0-4-08-0"
+         x="133.79529"
+         y="186.39064">°C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="131.76859"
+       y="233.13585"
+       id="eudensRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1088"
+         x="131.76859"
+         y="233.13585">т/м</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="148.27956"
+       y="230.04051"
+       id="eudensRGS25O_1"><tspan
+         sodipodi:role="line"
+         id="tspan1371-1-2-4-9-0"
+         x="148.27956"
+         y="230.04051">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="91.080452"
+       y="219.55972"
+       id="heightRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan5534"
+         x="91.080452"
+         y="219.55972">9999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="130.61475"
+       y="219.58548"
+       id="euheightRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan1411-8-0-6-0-0"
+         x="130.61475"
+         y="219.58548">см</tspan></text>
+    <g
+       id="hwRGS25O"
+       transform="translate(-7.1654167,-56.371796)">
+      <rect
+         style="opacity:0.994;fill:#19dce4;fill-opacity:1;stroke:none;stroke-width:2.10819;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rwr-5"
+         width="50"
+         height="10"
+         x="47.230518"
+         y="300" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end"
+         x="84.170174"
+         y="307.47626"
+         id="twr-6"><tspan
+           sodipodi:role="line"
+           id="tspan1767-52-19"
+           x="84.170174"
+           y="307.47626">вода</tspan></text>
+    </g>
+    <rect
+       style="opacity:0.994;fill:#e41919;fill-opacity:1;stroke:none;stroke-width:2.04616;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="hpRGS25O"
+       width="50"
+       height="5"
+       x="39.999458"
+       y="153.81384" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="53.180744"
+       y="163.6769"
+       id="percRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan2218-1-6-3-3-4"
+         x="53.180744"
+         y="163.6769">100.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="79.772171"
+       y="163.6769"
+       id="eupercRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan2238-5-3-3-0-1"
+         x="79.772171"
+         y="163.6769">%</tspan></text>
+    <rect
+       style="opacity:0.994;fill:#e41919;fill-opacity:1;stroke:none;stroke-width:2.04616;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="lpRGS25O"
+       width="50"
+       height="5"
+       x="40.065102"
+       y="248.6282" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="31.689772"
+       y="176.98471"
+       id="almRGS25O"><tspan
+         sodipodi:role="line"
+         id="tspan3725-9"
+         x="31.689772"
+         y="176.98471">! ошибка !</tspan></text>
+    <path
+       style="fill:#fe8300;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.7695,184.02881 v -10 h -5 l 8,-8 8,8 h -5 v 10 z"
+       id="incRGS25O" />
+    <path
+       style="fill:#fe8300;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 61.7695,168.58218 v 10.00001 h -5 l 8,8 8,-8 h -5 v -10.00001 z"
+       id="outcRGS25O" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="214.90479"
+     y="342.81668"
+     id="textRGS25O"><tspan
+       sodipodi:role="line"
+       id="tspan3386"
+       x="214.90479"
+       y="342.81668"> Hасос ДТ</tspan></text>
+  <g
+     id="g1709-9"
+     transform="translate(-487,-346)">
+    <rect
+       style="display:inline;fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3187-3-3-6"
+       width="14.17701"
+       height="14.090045"
+       x="855.823"
+       y="565.90997" />
+    <rect
+       style="opacity:0.994;fill:#bdbdbd;fill-opacity:1;stroke:#676767;stroke-width:1.67705;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1586-7"
+       width="75"
+       height="30"
+       x="805"
+       y="580" />
+    <g
+       id="g1625-0"
+       transform="matrix(1.2414243,0,0,1.245284,-208.41889,-136.07084)">
+      <ellipse
+         style="fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3189-6-7"
+         cx="862.9115"
+         cy="554.4668"
+         rx="15.189661"
+         ry="15.604372" />
+      <ellipse
+         style="fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3191-9-0"
+         cx="862.93561"
+         cy="554.57465"
+         rx="11.022179"
+         ry="10.991276" />
+    </g>
+    <path
+       style="fill:none;stroke:#5b5b5b;stroke-width:0.414735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.65894, 0.414735;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 854.24676,563.53631 c -8.91021,-9.7825 -0.54269,-21.07763 7.92974,-21.28494 8.89816,-0.21775 18.9971,11.14101 9.11043,21.28494"
+       id="path1631-4"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.38269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 853,546 10,9.497 h 0.56745"
+       id="path1627-2"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821,580 v 30"
+       id="path1633-0" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 836,580 v 30"
+       id="path1633-7-2" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851,580 v 30"
+       id="path1633-70-8" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 866,580 v 30"
+       id="path1633-7-5-8" />
+  </g>
+  <g
+     id="gpumpotv"
+     style="display:inline"
+     transform="translate(-295,60.000005)"
+     class="pump">
+    <title
+       id="title1073-9-7">Насос керосина</title>
+    <rect
+       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:2.51968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="pumpotv"
+       width="40"
+       height="40"
+       x="600"
+       y="256"
+       ry="20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 610,276 h 20 l -10,-20 z"
+       id="pathotv" />
+  </g>
+  <g
+     id="gcFOtv"
+     class="control"
+     transform="translate(-479,-264)">
+    <rect
+       style="opacity:0.994;fill:#1cc3dd;fill-opacity:1;stroke:#17a2b8;stroke-width:1.21975;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="cFOtv"
+       width="90.000015"
+       height="24.796568"
+       x="820"
+       y="545.20343"
+       ry="2.9755881"
+       class="svgbtn" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="840.72345"
+       y="561.0528"
+       id="textOtv"><tspan
+         sodipodi:role="line"
+         id="tspan2869-5"
+         x="840.72345"
+         y="561.0528">Детально</tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 147,655.3258 V 770.93485 H 317 V 655.3258"
+     id="path2411-2-5" />
+  <text
+     xml:space="preserve"
+     id="textGSMOtv-9"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2999-6-5-1);fill:#000000;fill-opacity:1;stroke:none;"
+     x="48.466885"
+     y="0"
+     transform="translate(-201.4082,-7.2949234)"><tspan
+       x="228.9375"
+       y="458.38859"><tspan>ГСМ ЖДЦ &quot;Промышленная&quot;</tspan></tspan></text>
+  <g
+     id="gTankH92-9-4"
+     style="display:inline"
+     transform="translate(-43.8346,128.92644)">
+    <ellipse
+       style="display:inline;fill:url(#linearGradient3717);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.781993;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path891-7-6-5-7-7-1"
+       cx="89.518372"
+       cy="507.69812"
+       rx="20.009634"
+       ry="47.601448" />
+    <ellipse
+       style="display:inline;fill:url(#linearGradient3719);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.781993;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path891-7-63-9-3-9"
+       cx="279.87939"
+       cy="507.21649"
+       rx="20.009634"
+       ry="47.601448" />
+    <rect
+       style="fill:url(#linearGradient3721);fill-opacity:1;stroke:#3e3e3e;stroke-width:0.712926;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect889-5-1-3-0"
+       width="190"
+       height="100"
+       x="90"
+       y="457.37183"
+       ry="0" />
+  </g>
+  <g
+     id="gRGS25P"
+     transform="translate(1409.2305,432.74361)"
+     class="vlevel">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1217.8582"
+       y="210.94884"
+       id="stitleRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan3217-3"
+         x="-1217.8582"
+         y="210.94884">25</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.6667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1240.4222"
+       y="171.27156"
+       id="ftypeRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1780"
+         x="-1240.4222"
+         y="171.27156">Керосин</tspan></text>
+    <rect
+       style="display:inline;fill:#e9c51a;fill-opacity:1;stroke:#6d6d6d;stroke-width:0.398912;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="pazsRGS25P"
+       width="50.001087"
+       height="99.454536"
+       x="-1345.0005"
+       y="153.81384" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:#6d6d6d;stroke-width:0.398455;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="azsRGS25P"
+       width="49.869801"
+       height="99.488594"
+       x="-1344.9349"
+       y="153.76779" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#989898;stroke-width:0.225322;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="btnR11-5-1-2"
+       width="66.997414"
+       height="17.366652"
+       x="-1309.2305"
+       y="189.25897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1304.7518"
+       y="203.02859"
+       id="volRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1122"
+         x="-1304.7518"
+         y="203.02859">9999999</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1281.8104"
+       y="186.11737"
+       id="tempRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1283-2-1-0-28-3-7"
+         x="-1281.8104"
+         y="186.11737">100.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1293.936"
+       y="233.23048"
+       id="densRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1281-98-6-3-3-5-5"
+         x="-1293.936"
+         y="233.23048">1999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1251.2128"
+       y="203.01805"
+       id="euvolRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1305-1-9-3-4-2-5"
+         x="-1251.2128"
+         y="203.01805">л</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1251.2047"
+       y="186.39064"
+       id="eutempRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1327-3-0-4-08-0-1"
+         x="-1251.2047"
+         y="186.39064">°C</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1253.1315"
+       y="233.23604"
+       id="eudensRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1090"
+         x="-1253.1315"
+         y="233.23604">т/м</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1236.7205"
+       y="230.04051"
+       id="eudensRGS25P_1"><tspan
+         sodipodi:role="line"
+         id="tspan1371-1-2-4-9-0-0"
+         x="-1236.7205"
+         y="230.04051">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1293.8196"
+       y="219.55972"
+       id="heightRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan5536"
+         x="-1293.8196"
+         y="219.55972">9999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none"
+       x="-1254.0852"
+       y="219.68567"
+       id="euheightRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan1411-8-0-6-0-0-1"
+         x="-1254.0852"
+         y="219.68567">см</tspan></text>
+    <g
+       id="hwRGS25P"
+       transform="translate(-1392.23,-56.731628)">
+      <rect
+         style="opacity:0.994;fill:#19dce4;fill-opacity:1;stroke:none;stroke-width:2.10819;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rwr-90"
+         width="50"
+         height="10"
+         x="47.230518"
+         y="300" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end"
+         x="84.170174"
+         y="307.47626"
+         id="twr-01"><tspan
+           sodipodi:role="line"
+           id="tspan1767-52-79"
+           x="84.170174"
+           y="307.47626">вода</tspan></text>
+    </g>
+    <rect
+       style="opacity:0.994;fill:#e41919;fill-opacity:1;stroke:none;stroke-width:2.04616;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="hpRGS25P"
+       width="50"
+       height="5"
+       x="-1345.0651"
+       y="153.76779" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="-1331.8192"
+       y="163.6769"
+       id="percRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan2218-1-6-3-3-4-8"
+         x="-1331.8192"
+         y="163.6769">100.0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="-1305.2278"
+       y="163.6769"
+       id="eupercRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan2238-5-3-3-0-1-6"
+         x="-1305.2278"
+         y="163.6769">%</tspan></text>
+    <rect
+       style="opacity:0.994;fill:#e41919;fill-opacity:1;stroke:none;stroke-width:2.04616;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="lpRGS25P"
+       width="50"
+       height="5"
+       x="-1344.9995"
+       y="248.6684" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:none"
+       x="-1353.0724"
+       y="178.24149"
+       id="almRGS25P"><tspan
+         sodipodi:role="line"
+         id="tspan3725-9-9"
+         x="-1353.0724"
+         y="178.24149">! ошибка !</tspan></text>
+    <path
+       style="fill:#fe8300;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1323.2305,184.70301 v -10 h -5 l 8,-8 8,8 h -5 v 10 z"
+       id="incRGS25P" />
+    <path
+       style="fill:#fe8300;fill-opacity:1;stroke:#000000;stroke-width:0.377953;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -1323.2305,169.25638 v 10.00001 h -5 l 8,8 8,-8 h -5 v -10.00001 z"
+       id="outcRGS25P" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1"
+     x="206.90479"
+     y="742.14246"
+     id="textRGS25O-9"><tspan
+       sodipodi:role="line"
+       id="tspan3386-3"
+       x="206.90479"
+       y="742.14246"> Hасос ДТ</tspan></text>
+  <g
+     id="g1709-9-5"
+     transform="translate(-495.00001,67.325797)">
+    <rect
+       style="display:inline;fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect3187-3-3-6-8"
+       width="14.17701"
+       height="14.090045"
+       x="855.823"
+       y="565.90997" />
+    <rect
+       style="opacity:0.994;fill:#bdbdbd;fill-opacity:1;stroke:#676767;stroke-width:1.67705;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1586-7-3"
+       width="75"
+       height="30"
+       x="805"
+       y="580" />
+    <g
+       id="g1625-0-2"
+       transform="matrix(1.2414243,0,0,1.245284,-208.41889,-136.07084)">
+      <ellipse
+         style="fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3189-6-7-4"
+         cx="862.9115"
+         cy="554.4668"
+         rx="15.189661"
+         ry="15.604372" />
+      <ellipse
+         style="fill:#bababa;fill-opacity:1;stroke:#676767;stroke-width:2.05275;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="path3191-9-0-6"
+         cx="862.93561"
+         cy="554.57465"
+         rx="11.022179"
+         ry="10.991276" />
+    </g>
+    <path
+       style="fill:none;stroke:#5b5b5b;stroke-width:0.414735;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.65894, 0.414735;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 854.24676,563.53631 c -8.91021,-9.7825 -0.54269,-21.07763 7.92974,-21.28494 8.89816,-0.21775 18.9971,11.14101 9.11043,21.28494"
+       id="path1631-4-3"
+       sodipodi:nodetypes="csc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.38269px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 853,546 10,9.497 h 0.56745"
+       id="path1627-2-3"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 821,580 v 30"
+       id="path1633-0-7" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 836,580 v 30"
+       id="path1633-7-2-4" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 851,580 v 30"
+       id="path1633-70-8-6" />
+    <path
+       style="fill:none;stroke:#676767;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 866,580 v 30"
+       id="path1633-7-5-8-9" />
+  </g>
+  <g
+     id="gpumpprom"
+     style="display:inline"
+     transform="translate(-303,459.3258)"
+     class="pump">
+    <title
+       id="title1073-9-7-2">Насос керосина</title>
+    <rect
+       style="opacity:1;fill:#cfcfcf;fill-opacity:1;stroke:#000000;stroke-width:2.51968;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="pumpprom"
+       width="40"
+       height="40"
+       x="600"
+       y="256"
+       ry="20" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 610,276 h 20 l -10,-20 z"
+       id="pathprom" />
+  </g>
+  <g
+     id="gcFProm"
+     class="control"
+     transform="translate(-477.00001,145.3258)">
+    <rect
+       style="opacity:0.994;fill:#1cc3dd;fill-opacity:1;stroke:#17a2b8;stroke-width:1.21975;stroke-linejoin:round;stroke-opacity:1;paint-order:stroke fill markers"
+       id="cFProm"
+       width="90.000015"
+       height="24.796568"
+       x="820"
+       y="545.20343"
+       ry="2.9755881"
+       class="svgbtn" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="840.72345"
+       y="561.0528"
+       id="textProm"><tspan
+         sodipodi:role="line"
+         id="tspan2869-5-5"
+         x="840.72345"
+         y="561.0528">Детально</tspan></text>
+  </g>
+  <g
+     id="plcOtv"
+     transform="translate(110,120)"
+     class="plc">
+    <rect
+       style="opacity:0.994;fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-width:0.377953;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect2753-6"
+       width="130"
+       height="30"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text2997-8-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2999-3-4);fill:#000000;fill-opacity:1;stroke:none;"
+       x="48.466885"
+       y="0"
+       transform="translate(-373.5014,-422.8653)"><tspan
+         x="379.25391"
+         y="443.97652"><tspan>нет связи с ПЛК</tspan></tspan></text>
+  </g>
+  <g
+     id="plcProm"
+     transform="translate(102,522)"
+     class="plc">
+    <rect
+       style="opacity:0.994;fill:#ffff00;fill-opacity:1;stroke:#898989;stroke-width:0.377953;stroke-linejoin:round;paint-order:stroke fill markers"
+       id="rect2753-6-6"
+       width="130"
+       height="30"
+       x="0"
+       y="0" />
+    <text
+       xml:space="preserve"
+       id="text2997-8-0-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;white-space:pre;shape-inside:url(#rect2999-3-4-0);fill:#000000;fill-opacity:1;stroke:none;"
+       x="48.466885"
+       y="0"
+       transform="translate(-373.5014,-422.8653)"><tspan
+         x="379.25391"
+         y="443.97652"><tspan>нет связи с ПЛК</tspan></tspan></text>
+  </g>
+  <path
+     style="fill:none;stroke:#9f9f9f;stroke-width:0.612719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 368,590 v 15"
+     id="path3239-6-6-4-9" />
+  <rect
+     style="fill:#fefefe;fill-opacity:1;stroke:#9f9f9f;stroke-width:1.33932;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="rect3237-6-1-0-5"
+     width="140.00069"
+     height="102.81545"
+     x="282.04333"
+     y="486.67419" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 281.58859,569.53303 H 422"
+     id="path3241-0-3-8-6-8-3" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 281.58859,550 H 422"
+     id="path3241-0-3-8-8-2-4-8" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 281.58859,530 H 422"
+     id="path3241-0-3-8-8-3-1-3-8" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="284.65637"
+     y="523.21423"
+     id="text3319-3-4-5-5"><tspan
+       sodipodi:role="line"
+       id="tspan1515-6-1-3"
+       x="284.65637"
+       y="523.21423">Отпущено :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="284.922"
+     y="543.96509"
+     id="text3319-7-2-2-4-0"><tspan
+       sodipodi:role="line"
+       id="tspan1517-3-65-3"
+       x="284.922"
+       y="543.96509">Транспорт :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="412.00354"
+     y="523.18823"
+     id="text3319-8-4-6-2-6"><tspan
+       sodipodi:role="line"
+       id="tspan1519-5-5-2"
+       x="412.00354"
+       y="523.18823">л</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="284.68762"
+     y="583.13214"
+     id="text3319-3-7-8-4-1"><tspan
+       sodipodi:role="line"
+       id="tspan1988-4-6-0"
+       x="284.68762"
+       y="583.13214">За сутки :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="410.92944"
+     y="583.10608"
+     id="text3319-8-4-8-5-2-1"><tspan
+       sodipodi:role="line"
+       id="tspan1519-3-7-3-8"
+       x="410.92944"
+       y="583.10608">л</tspan></text>
+  <g
+     id="gFProm"
+     class="meter"
+     transform="translate(-466.00001,150)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="841.64899"
+       y="373.49603"
+       id="FPromVol"><tspan
+         sodipodi:role="line"
+         id="tspan2085-6-0"
+         x="841.64899"
+         y="373.49603">9999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="813.16901"
+       y="395.02759"
+       id="FPromNum"><tspan
+         sodipodi:role="line"
+         id="tspan3739"
+         x="813.16901"
+         y="395.02759">XX8888XXXXX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="771.47528"
+       y="413.81714"
+       id="FPromDate"><tspan
+         sodipodi:role="line"
+         id="tspan1576-6-0-6"
+         x="771.47528"
+         y="413.81714">21.10.2020 19:45:22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="828.57489"
+       y="433.41388"
+       id="FPromDaily"><tspan
+         sodipodi:role="line"
+         id="tspan1992-8-6-6"
+         x="828.57489"
+         y="433.41388">999999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="788.34009"
+       y="350.97986"
+       id="FPromSumVol"><tspan
+         sodipodi:role="line"
+         id="tspan1989"
+         x="788.34009"
+         y="350.97986">9999999999999.9</tspan></text>
+  </g>
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 281.58859,508 H 422"
+     id="path3241-0-3-8-8-3-1-3-8-5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="284.65637"
+     y="501.21423"
+     id="text3319-3-4-5-5-0"><tspan
+       sodipodi:role="line"
+       id="tspan1964"
+       x="284.65637"
+       y="501.21423">Всего :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="412.00354"
+     y="501.18823"
+     id="text3319-8-4-6-2-6-7"><tspan
+       sodipodi:role="line"
+       id="tspan1519-5-5-2-1"
+       x="412.00354"
+       y="501.18823">л</tspan></text>
+  <path
+     style="fill:none;stroke:#9f9f9f;stroke-width:0.612719;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 376.41141,172.46697 v 15"
+     id="path3239-6-6-4-9-7" />
+  <rect
+     style="fill:#fefefe;fill-opacity:1;stroke:#9f9f9f;stroke-width:1.33932;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+     id="rect3237-6-1-0-5-2"
+     width="140.00069"
+     height="102.81545"
+     x="276.45474"
+     y="69.141167" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 276,152 H 416.41141"
+     id="path3241-0-3-8-6-8-3-2" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 276,132.46697 H 416.41141"
+     id="path3241-0-3-8-8-2-4-8-0" />
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 276,112.46697 H 416.41141"
+     id="path3241-0-3-8-8-3-1-3-8-7" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="279.06775"
+     y="105.68121"
+     id="text3319-3-4-5-5-6"><tspan
+       sodipodi:role="line"
+       id="tspan1515-6-1-3-3"
+       x="279.06775"
+       y="105.68121">Отпущено :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="279.3334"
+     y="126.43205"
+     id="text3319-7-2-2-4-0-1"><tspan
+       sodipodi:role="line"
+       id="tspan1517-3-65-3-8"
+       x="279.3334"
+       y="126.43205">Транспорт :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="406.41495"
+     y="105.6552"
+     id="text3319-8-4-6-2-6-6"><tspan
+       sodipodi:role="line"
+       id="tspan1519-5-5-2-4"
+       x="406.41495"
+       y="105.6552">л</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="279.099"
+     y="165.59911"
+     id="text3319-3-7-8-4-1-0"><tspan
+       sodipodi:role="line"
+       id="tspan1988-4-6-0-4"
+       x="279.099"
+       y="165.59911">За сутки :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="405.34085"
+     y="165.57304"
+     id="text3319-8-4-8-5-2-1-4"><tspan
+       sodipodi:role="line"
+       id="tspan1519-3-7-3-8-2"
+       x="405.34085"
+       y="165.57304">л</tspan></text>
+  <g
+     id="gFOtv"
+     class="meter"
+     transform="translate(-471.58857,-267.53303)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="841.64899"
+       y="373.49603"
+       id="FOtvVol"><tspan
+         sodipodi:role="line"
+         id="tspan2085-6-0-9"
+         x="841.64899"
+         y="373.49603">9999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="813.16901"
+       y="395.02759"
+       id="FOtvNum"><tspan
+         sodipodi:role="line"
+         id="tspan3739-7"
+         x="813.16901"
+         y="395.02759">XX8888XXXXX</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="771.47528"
+       y="413.81714"
+       id="FOtvDate"><tspan
+         sodipodi:role="line"
+         id="tspan1576-6-0-6-6"
+         x="771.47528"
+         y="413.81714">21.10.2020 19:45:22</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="828.57489"
+       y="433.41388"
+       id="FOtvDaily"><tspan
+         sodipodi:role="line"
+         id="tspan1992-8-6-6-2"
+         x="828.57489"
+         y="433.41388">999999.9</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-opacity:1"
+       x="788.34009"
+       y="350.97986"
+       id="FOtvSumVol"><tspan
+         sodipodi:role="line"
+         id="tspan1989-5"
+         x="788.34009"
+         y="350.97986">9999999999999.9</tspan></text>
+  </g>
+  <path
+     style="display:inline;fill:none;stroke:#9f9f9f;stroke-width:0.552328;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="M 276,90.46697 H 416.41141"
+     id="path3241-0-3-8-8-3-1-3-8-5-5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#757575;fill-opacity:1;stroke:none"
+     x="279.06775"
+     y="83.681206"
+     id="text3319-3-4-5-5-0-3"><tspan
+       sodipodi:role="line"
+       id="tspan1964-6"
+       x="279.06775"
+       y="83.681206">Всего :</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.6667px;line-height:1.25;font-family:'Microsoft Sans Serif';-inkscape-font-specification:'Microsoft Sans Serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;display:inline;fill:#757575;fill-opacity:1;stroke:none"
+     x="406.41495"
+     y="83.655205"
+     id="text3319-8-4-6-2-6-7-3"><tspan
+       sodipodi:role="line"
+       id="tspan1519-5-5-2-1-5"
+       x="406.41495"
+       y="83.655205">л</tspan></text>
+</svg>

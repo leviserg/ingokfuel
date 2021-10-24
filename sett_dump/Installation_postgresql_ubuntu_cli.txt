@@ -1,0 +1,171 @@
+# ============ remove ============
+> sudo apt-get --purge remove postgresql
+> dpkg -l | grep postgres
+{ > sudo apt-get --purge remove postgresql-10 postgresql-client-10 postgresql-common postgresql-client-common postgresql-contrib}
+// ------------ if founded in folder  ----------
+> sudo rm -rf /var/lib/postgresql/
+> sudo rm -rf /var/log/postgresql/
+> sudo rm -rf /etc/postgresql/
+> sudo deluser postgres
+
+# ============= install V1 ============
+
+> wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+> sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ $(lsb_release -sc)-pgdg main" > /etc/apt/sources.list.d/PostgreSQL.list'
+> sudo apt update
+> sudo apt-get install postgresql-12
+> sudo systemctl stop postgresql.service
+> sudo systemctl start postgresql.service
+> sudo systemctl enable postgresql.service
+> sudo systemctl status postgresql.service
+# -------- set password for postgres account ---------
+> sudo passwd postgres
+...{Enter and confirm}...{aa111274}
+> sudo su -l postgres
+> psql
+# ------- Set password for DB administrator (postgres) ----
+> su - postgres
+> psql
+> postgres=# \password postgres
+...{Enter and confirm}...{pohtefdg}
+> \q
+> exit
+
+# --------------- php ---------- добавити окремо 
+
+sudo apt-get install -y php7.2-pgsql
+
+і потім в etc/php/...  в php.ini  розкоментити 
+    extension=php_pdo_pgsql.dll
+    extension=php_pdo_sqlite.dll
+    extension=php_pgsql.dll
+
+	> sudo service apache2 restart
+	
+# ---------- set default host --------------
+
+1. put files in new folder "var/www/html/{newfoldername}"
+2. open file /etc/hosts :
+	set (or uncomment)
+	{
+		127.0.0.1		localhost
+		89.40.117.82	localhost
+	}
+3. open file /etc/apache2/sites-available/000-default.conf 
+   and save it under {example}.conf at the same folder
+4. set created file content {example}.conf :
+	<VirtualHost *:80>
+		ServerName {projectdomain.com}
+		DocumentRoot /var/www/html
+	</VirtualHost>
+5. set created file content {example}.conf :
+	<VirtualHost *:80>
+		ServerName {projectdomain.com}
+		DocumentRoot /var/www/html
+	</VirtualHost>	
+6. disable default configuration and enable new configuration
+	> sudo a2dissite 000-default.conf		
+	> sudo a2ensite {example}.conf
+	> sudo systemctl reload apache2	
+7. update apache2 config file : open /etc/apache2/apache2.conf
+	set file content :
+	{
+		<Directory /var/www/>
+			AllowOverride All
+			Require all granted
+		</Directory>
+	}
+8. reload configuration and restart apache2 service
+	> sudo systemctl reload apache2
+	> sudo a2enmod rewrite
+	> sudo service apache2 restart
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+===================================================	
++++++++++++++++++++++++++++++++++++++++++++++++++++
++++++++++++++++++++++++++++++++++++++++++++++++++++
+===================================================
+
+> ------- pgadmin4 -------
+
+> sudo apt-get install pgadmin4 pgadmin4-apache2
+{initial email:pgadmin4@localhost}
+{initial email:pgadmin4@localhost}
+
+wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+ sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+ 
+ sudo apt update
+ sudo apt install pgadmin4 pgadmin4-apache2 -y
+
+
+
+
+
+# ============= install V2 ============
+
+> sudo apt-get install wget ca-certificates
+> wget --quiet -O - https://www.postgresql.org/media/keys/ACCC4CF8.asc | sudo apt-key add -
+> sudo sh -c 'echo "deb http://apt.postgresql.org/pub/repos/apt/ `lsb_release -cs`-pgdg main" >> /etc/apt/sources.list.d/pgdg.list'
+> sudo apt-get update
+> sudo apt-get install postgresql postgresql-contrib
+> apt show postgresql
+> sudo apt install postgresql postgresql-contrib
+> sudo su - postgres
+> psql
+> \conninfo
+
+
+# ========= change the 'postgres'-user password =========
+> psql postgres
+> \password postgres
+> {Enter new password and Confirm it}
+> \q {exit from psql}
+> logout
+> sudo su -
+
+> curl https://www.pgadmin.org/static/packages_pgadmin_org.pub | sudo apt-key add
+> sudo sh -c 'echo "deb https://ftp.postgresql.org/pub/pgadmin/pgadmin4/apt/$(lsb_release -cs) pgadmin4 main" > /etc/apt/sources.list.d/pgadmin4.list && apt update'
+> sudo apt install pgadmin4
+> sudo apt install pgadmin4-web
+> sudo /usr/pgadmin4/bin/setup-web.sh
+
+$ mkdir pgAdmin4
+$ cd pgAdmin4
+$ virtualenv pgAdmin4
+$ cd pgAdmin4
+$ source bin/activate
+$ wget https://ftp.postgresql.org/pub/pgadmin/pgadmin4/v2.1/pip/pgadmin4-2.1-py2.py3-none-any.whl
+$ pip install pgadmin4-2.1-py2.py3-none-any.whl
+$ nano lib/python2.7/site-packages/pgadmin4/config_local.py
+##################
+import os
+DATA_DIR = os.path.realpath(os.path.expanduser(u'~/.pgadmin/'))
+LOG_FILE = os.path.join(DATA_DIR, 'pgadmin4.log')
+SQLITE_PATH = os.path.join(DATA_DIR, 'pgadmin4.db')
+SESSION_DB_PATH = os.path.join(DATA_DIR, 'sessions')
+STORAGE_DIR = os.path.join(DATA_DIR, 'storage')
+SERVER_MODE = False
+##################
+$ python lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+$ pip install flask-htmlmin
+$ python lib/python2.7/site-packages/pgadmin4/pgAdmin4.py
+
+Now, access http://localhost:5050 from any browser. If all the steps are completed properly then the browser will display the following page.
+
+$ sudo apt-GET install postgresql postgresql-contrib
+$ sudo -u postgres psql postgres
+# \password postgres
+
+
+
+

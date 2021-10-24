@@ -1,0 +1,70 @@
+
+// ********************* Part 1 Install, Tuning & create base template for Project *********************
+
+## - getcomposer.com - install composer (Composer-Setup.exe)
+## composer create-project symfony/website-skeleton my_project    = for web application
+## (composer create-project symfony/skeleton my_project    = for microservice, api or console application)
+## 
+## run GitBash from C:\xampp\htdocs (or open this folder in VisualStudioCode & run Terminal from folder 
+## $ composer
+## ...
+## $ composer create-project symfony/website-skeleton {porject name}
+{$ composer create-project symfony/website-skeleton symblog}
+##
+
+OR put application folder in C:/xampp/htdocs/{applicationFolder}
+
+- run xampp apache and mysql (if not running - check if local mysql service stopped)
+- create local virtual host - go to C:/xampp/apache/conf/extra/httpd-vhosts.conf
+	edit file:
+		- add:
+			<VirtualHost *:80>
+				DocumentRoot "C:/xampp/htdocs/{appname}/public
+				ServerName {appname}.test
+			</VirtualHost>
+			
+- run Notepad as Administrator
+- open C:/Windows/System32/drivers/etc/hosts {show all files}
+	put in new line "127.0.0.1 {appname}.test
+- restart xampp/apache
+				
+Project Folder at C:\xampp\htdocs\{projectname}
+// ========== access through local domain name ========
+
+1. C:/xampp/apache/conf/httpd.conf 
+
+ ---- add line at the bottom ----
+
+	<Directory "C:/xampp/htdocs/ingokfuel/">
+    		AllowOverride All
+    		Options None
+    		Order allow,deny
+    		# Require all granted
+    		Allow from all
+	</Directory>
+
+2. C:/xampp/apache/conf/extra/httpd-vhosts.conf
+
+ ---- add line at the bottom ----
+
+	NameVirtualHost *:80
+
+	<VirtualHost *:80>
+		ServerName www.yourdomain.com
+		ServerAlias yourdomain.com
+		ServerAdmin email@yourdomain.com
+		DocumentRoot "C:\xampp\htdocs\wordpress"
+	</VirtualHost>	
+
+3. Run Notepas as Administrator => open C:/Windows/System32/drivers/etc/hosts {show all files}
+
+	put in new line
+		127.0.0.1 {appname}.test
+
+	- restart xampp/apache
+
+
+		
+	
+
+

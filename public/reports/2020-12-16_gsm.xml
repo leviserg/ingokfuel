@@ -1,0 +1,582 @@
+<?xml version='1.0' encoding='WINDOWS-1251'?>
+<ZVIT>
+  <TRANSPORT>
+    <VERSION>4.1</VERSION>
+    <CREATEDATE>17.12.2020</CREATEDATE>
+  </TRANSPORT>
+  <ORG>
+    <FIELDS>
+      <EDRPOU>12345678</EDRPOU>
+    </FIELDS>
+    <CARD CARDWITHKVT="1">
+      <FIELDS>
+        <PERTYPE>0</PERTYPE>
+        <PERDATE>01.12.2020</PERDATE>
+        <DOCID>UJPG918A-ZDZP-FI6T-LQAV-XBU0</DOCID>
+        <NOTATION/>
+        <SIGNERNAME>Іванов Іван Иванович</SIGNERNAME>
+        <CHARCODE>J0210401</CHARCODE>
+      </FIELDS>
+      <DOCUMENT>
+        <ROW LINE="0" NAME="HZ" TAB="0">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="EDRPOU" TAB="0">
+          <VALUE>12345678</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="NAME" TAB="0">
+          <VALUE>ИНГОК .....</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="REL1" TAB="0">
+          <VALUE>123456</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N1" TAB="0">
+          <VALUE>17.12.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N2" TAB="0">
+          <VALUE>00:00:01</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N3" TAB="0">
+          <VALUE>17.12.2020</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="N4" TAB="0">
+          <VALUE>23:59:59</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RUKINN" TAB="0">
+          <VALUE>123456789</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RUK" TAB="0">
+          <VALUE>Іванов Іван Иванович</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="POS" TAB="0">
+          <VALUE>посада</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="1">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A1" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A3" TAB="1">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A5" TAB="1">
+          <VALUE>22</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A6" TAB="1">
+          <VALUE>145190</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A7" TAB="1">
+          <VALUE>398248.26</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A8" TAB="1">
+          <VALUE>398248.26</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB1_A" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A1" TAB="1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A3" TAB="1">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A5" TAB="1">
+          <VALUE>23</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A6" TAB="1">
+          <VALUE>145192</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A7" TAB="1">
+          <VALUE>238067.46</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A8" TAB="1">
+          <VALUE>238049.14</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB1_A" TAB="1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="RECNO" TAB="1">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A1" TAB="1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A3" TAB="1">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A5" TAB="1">
+          <VALUE>24</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A6" TAB="1">
+          <VALUE>145191</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A7" TAB="1">
+          <VALUE>299664.3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A8" TAB="1">
+          <VALUE>256617.59</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB1_A" TAB="1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="RECNO" TAB="1">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A1" TAB="1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A3" TAB="1">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше:  інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A5" TAB="1">
+          <VALUE>11</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A6" TAB="1">
+          <VALUE>145000</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A7" TAB="1">
+          <VALUE>2668.95</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A8" TAB="1">
+          <VALUE>2669.34</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="3" NAME="TAB1_A" TAB="1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="RECNO" TAB="1">
+          <VALUE>4</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A1" TAB="1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A3" TAB="1">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше:  інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A5" TAB="1">
+          <VALUE>12</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A6" TAB="1">
+          <VALUE>145001</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A7" TAB="1">
+          <VALUE>2670.26</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A8" TAB="1">
+          <VALUE>2670.01</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="4" NAME="TAB1_A" TAB="1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="RECNO" TAB="1">
+          <VALUE>5</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A1" TAB="1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A3" TAB="1">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A5" TAB="1">
+          <VALUE>92</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A6" TAB="1">
+          <VALUE>144999</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A7" TAB="1">
+          <VALUE>8101.08</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A8" TAB="1">
+          <VALUE>8101.25</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="5" NAME="TAB1_A" TAB="1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="RECNO" TAB="1">
+          <VALUE>6</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A1" TAB="1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A2" TAB="1">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A3" TAB="1">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A5" TAB="1">
+          <VALUE>16</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A6" TAB="1">
+          <VALUE>144998</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A7" TAB="1">
+          <VALUE>2686.65</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A8" TAB="1">
+          <VALUE>2687.05</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A11" TAB="1">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="6" NAME="TAB1_A" TAB="1">
+          <VALUE>7</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="2">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A1" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A2" TAB="2">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A3" TAB="2">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше: інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A4" TAB="2">
+          <VALUE>5339.21</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A5" TAB="2">
+          <VALUE>5339.35</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A6" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB2_A" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A1" TAB="2">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A2" TAB="2">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A3" TAB="2">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A4" TAB="2">
+          <VALUE>935980.02</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A5" TAB="2">
+          <VALUE>892914.99</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A6" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB2_A" TAB="2">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="RECNO" TAB="2">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A1" TAB="2">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A2" TAB="2">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A3" TAB="2">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A4" TAB="2">
+          <VALUE>10787.73</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A5" TAB="2">
+          <VALUE>10788.3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A6" TAB="2">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB2_A" TAB="2">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A1" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A2" TAB="3">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A3" TAB="3">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше: інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A4" TAB="3">
+          <VALUE>25455</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A5" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A7" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB3_A" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A1" TAB="3">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A2" TAB="3">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A3" TAB="3">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A4" TAB="3">
+          <VALUE>G200000007502314</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A5" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A7" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB3_A" TAB="3">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="RECNO" TAB="3">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A1" TAB="3">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A2" TAB="3">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A3" TAB="3">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A4" TAB="3">
+          <VALUE>11723</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A5" TAB="3">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A7" TAB="3">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB3_A" TAB="3">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A1" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A2" TAB="4">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A3" TAB="4">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше: інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A4" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A5" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB4_A" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A1" TAB="4">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A2" TAB="4">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A3" TAB="4">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A4" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A5" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A" TAB="4">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="4">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A1" TAB="4">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A2" TAB="4">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A3" TAB="4">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A4" TAB="4">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A5" TAB="4">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB4_A" TAB="4">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="RECNO" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A1" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A2" TAB="5">
+          <VALUE>2710194300</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A3" TAB="5">
+          <VALUE>Важкі дистиляти (газойлі)</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A4" TAB="5">
+          <VALUE>892914.99</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A5" TAB="5">
+          <VALUE>935980.02</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A6" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A7" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A8" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A9" TAB="5">
+          <VALUE>-43065.03</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A10" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="0" NAME="TAB5_A" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A1" TAB="5">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A2" TAB="5">
+          <VALUE>2710124194</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A3" TAB="5">
+          <VALUE>Бензини моторні з вмістом свинцю 0,013 г/л або менше: інші бензини</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A4" TAB="5">
+          <VALUE>5339.35</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A5" TAB="5">
+          <VALUE>5339.21</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A6" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A7" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A8" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A9" TAB="5">
+          <VALUE>0.14</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A10" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="TAB5_A" TAB="5">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="1" NAME="RECNO" TAB="5">
+          <VALUE>2</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A1" TAB="5">
+          <VALUE>3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A2" TAB="5">
+          <VALUE>2710192100</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A3" TAB="5">
+          <VALUE>Гас: паливо для реактивних двигунів</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A4" TAB="5">
+          <VALUE>10788.3</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A5" TAB="5">
+          <VALUE>10787.73</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A6" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A7" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A8" TAB="5">
+          <VALUE>0</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A9" TAB="5">
+          <VALUE>0.57</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A10" TAB="5">
+          <VALUE>1</VALUE>
+        </ROW>
+        <ROW LINE="2" NAME="TAB5_A" TAB="5">
+          <VALUE>3</VALUE>
+        </ROW>
+      </DOCUMENT>
+    </CARD>
+  </ORG>
+</ZVIT>
